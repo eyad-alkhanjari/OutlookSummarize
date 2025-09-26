@@ -1,0 +1,3 @@
+upload manifest.prod.xml file into outlook
+deploy the app on github
+deploy the workers on cloudflare
